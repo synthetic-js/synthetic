@@ -1,0 +1,29 @@
+{
+  "name": "@synthetic-js/synthetic",
+  "version": "0.0.1",
+  "description": "A JavaScript library that allows easier and smoother functions",
+  "main": "synthetic/index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synthetic-js/synthetic.git"
+  },
+  "keywords": [
+    "js",
+    "npm",
+    "library",
+    "synthetic"
+  ],
+  "author": "kokonut27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synthetic-js/synthetic/issues"
+  },
+  "homepage": "https://github.com/synthetic-js/synthetic#readme"
+}
